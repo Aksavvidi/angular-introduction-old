@@ -6,5 +6,11 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'anular-introduction';
+  title = 'angular-introduction';
 }
+
+// @Comment({
+//   selector: "app-hello",
+//   template:<h1>Hello World</h1>
+// })
+// export class HelloComponent {}
